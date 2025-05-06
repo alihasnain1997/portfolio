@@ -11,9 +11,9 @@ import { icons } from "react-icons";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Ali Hasnain - Senior Software Engineer",
+  title: "Raza Amer- Senior Software Engineer",
   description:
-    "Ali Hasnain's portfolio showcasing skills, projects, and experience as a Senior Software Engineer.",
+    "Raza Amer's portfolio showcasing skills, projects, and experience as a Senior Software Engineer.",
     icons: {
       icon: "/favicon.ico"
     }

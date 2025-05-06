@@ -1,22 +1,17 @@
 export const personalData = {
-  name: "Ali Hasnain",
+  name: "Raza Amer",
   profile: "/profile.jpg",
-  designation: "Software Developer",
-  description: `My name is Ali Hasnain, and I’m a dedicated and detail-oriented Senior Software Engineer with a strong passion for building scalable and efficient web applications. With hands-on experience across a variety of domains—including medical, banking, ERPs, and CRMs—I thrive in fast-paced environments and enjoy solving complex problems with clean, maintainable code. I'm a quick learner with a methodical, self-driven approach, and I constantly seek opportunities to grow by exploring new technologies and frameworks.
+  designation: "Senior Software Engineer",
+  description: `I’m Raza Amer, a passionate and results-driven Senior Software Engineer with extensive experience in developing scalable, secure, and high-performance applications. I specialize in backend development using Java and Spring Boot, and have a solid grasp on building microservices, securing applications with Spring Security/Keycloak/Okta, and optimizing data performance using PostgreSQL, MySQL, Redis, and MongoDB.
 
-While I’ve worked across the full stack, my expertise lies in JavaScript/TypeScript, particularly with Node.js, NestJS, React.js, and Angular, and I have a deep understanding of AWS serverless architectures, Docker, Redis, PostgreSQL, and real-time systems. I enjoy turning ideas into robust backend systems and user-friendly interfaces, making meaningful contributions to both product and team growth.
+I’ve contributed to mission-critical systems for global banks like CMA, CIBC, and QNB, as well as auction platforms and employment apps modeled after LinkedIn. I take pride in writing clean, maintainable code, solving complex problems, and continuously evolving my skill set to deliver innovative software solutions. Experienced in containerization, event-driven systems, observability tools, and modern software architecture patterns.
 
-I'm always open to exciting opportunities that challenge me and align with my technical skills and passion for software development.`,
-  email: "ali.hasnain.9279@gmail.com",
-  phone: "+92 323 4693230",
-  address: "Lahore, Pakistan - 54000",
-  github: "https://github.com/alihasnain1997",
-  // facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/ali-h-211256135/",
-  // twitter: "https://twitter.com/said7388",
-  // stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  // leetcode: "https://leetcode.com/said3812/",
-  devUsername: "ali hasnain",
-  resume:
-    "https://drive.google.com/file/d/1Qv2SoDxv3uic1Mo-H5pzjDrfOCUAm_IJ/view?usp=sharing",
+I’m driven by curiosity, collaboration, and a commitment to excellence—and always open to challenging opportunities in forward-thinking tech teams.`,
+  email: "razaamir1996@gmail.com",
+  phone: "+92 316 0095005",
+  address: "Lahore, Pakistan",
+  github: "https://github.com/MalikRazaAmir", // Add your GitHub profile link here if available
+  linkedIn: "https://www.linkedin.com/in/malik-raza-amir",
+  devUsername: "raza amer",
+  resume: "https://drive.google.com/file/d/1RBPTxPZ_ihtzTuYoFDM89_dQTtCSiqrI/view?usp=drive_link", // You can upload your resume to a cloud drive and place the public shareable link here
 };

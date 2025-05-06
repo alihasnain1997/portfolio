@@ -1,9 +1,8 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2016 - 2020",
-    institution: "The Superior University, Lahore, Pakistan",
-  },
- 
+    title: "Bachelor of Computer Science",
+    duration: "2015 - 2019",
+    institution: "Punjab University College Of Infomation Technology(PUCIT), Lahore",
+  }
 ]
