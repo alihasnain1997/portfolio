@@ -89,7 +89,15 @@ import socket from "../app/assets/svg/skills/Socket.io.svg";
 import antDesign from "../app/assets/svg/skills/Ant Design.svg";
 import redux from "../app/assets/svg/skills/Redux.svg";
 import cypress from "../app/assets/svg/skills/Cypress.svg";
-
+import maven from "../app/assets/svg/skills/Apache Maven.svg";
+import liquibase from "../app/assets/svg/skills/Liquibase.svg";
+import kafka from "../app/assets/svg/skills/Apache Kafka.svg";
+import grafana from "../app/assets/svg/skills/Grafana.svg";
+import Prometheus from "../app/assets/svg/skills/Prometheus.svg";
+import Elasticsearch from "../app/assets/svg/skills/Elastic Search.svg";
+import Okta from "../app/assets/svg/skills/Okta.svg";
+import Spring from "../app/assets/svg/skills/Spring.svg";
+import Hibernate from "../app/assets/svg/skills/Hibernate.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -274,6 +282,24 @@ export const skillsImage = (skill) => {
       return cypress;
     case "antdesign":
       return antDesign;
+    case "maven":
+      return maven;
+    case "liquibase":
+      return liquibase;
+    case "kafka":
+      return kafka;
+    case "grafana":
+      return grafana;
+    case "prometheus":
+      return Prometheus;
+    case "elasticsearch":
+      return Elasticsearch;
+    case "okta":
+      return Okta;
+    case "spring":
+      return Spring;
+    case "hibernate":
+      return Hibernate;
     default:
       break;
   }

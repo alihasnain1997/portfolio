@@ -1,40 +1,38 @@
 export const skillsData = [
   // Core Languages & Frameworks
   "Java",
-  "Spring Boot",
-  "Spring Security",
-  "Hibernate",
-  "JPA",
-  "Maven",
-  "Node.js",
-
+  "nodejs",
 
   // Authentication & Authorization
-  "Keycloak",
-  "Okta",
 
   // Databases
-  "MySQL",
-  "PostgreSQL",
-  "MongoDB",
-  "Redis",
+  "mysql",
+  "postgresql",
+  "mongodb",
+  "redis",
 
   // DevOps & Tools
   "Docker",
   "Git",
-  "Liquibase",
-  "GraalVM",
-  "Kafka",
 
-  // Monitoring & Logging
+  // Others
+  "aws",
+  "socket",
+  "graphql",
+
+  "Maven",
+  "Liquibase",
+  // "GraalVM",
+  "Kafka",
   "Grafana",
   "Prometheus",
   "Elasticsearch",
-
-  // Others
-  "AWS",
-  "Socket.io",
-  "GraphQL"
+  // "Keycloak",
+  "Okta",
+  "Spring",
+  // "Spring Security",
+  "Hibernate",
+  // "JPA",
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
