@@ -2,31 +2,25 @@ export const experiences = [
   {
     id: 1,
     title: "Senior Software Engineer",
-    company: "STEM Solutions",
+    company: "Ascertia",
     stack:
-      "React, Angular, Node.js, Nest.js, Express, MongoDB, Postegres, Micro-services, AWS, Lambda, S3, Serverless",
+      "Java, Spring Boot, REST APIs, MySQL, Redis, Docker, JIRA, Microservices,Kafka,Liquibase,Events,Hexagonal Architecture,Outbox Architecture,Keycloak,GraalVM",
     duration: "(Jan 2025 - Present)",
+  },
+  {
+    id: 1,
+    title: "Senior Software Engineer",
+    company: "Arbisoft",
+    stack:
+      "Java, Spring Boot, REST APIs, MySQL, Redis,Elasticsearch, Docker, JIRA, Microservices,Prometheus,Grafana",
+    duration: "(Apr 2024 - Dec 2024)",
   },
   {
     id: 2,
     title: "Senior Software Engineer",
-    company: "Techverx",
+    company: "i2c Inc.",
     stack:
-      "React, Angular, Node.js, Nest.js, Express, MongoDB, Postegres, Micro-services, AWS",
-    duration: "(Apr 2022 - Dec 2024)",
-  },
-  {
-    id: 3,
-    title: "Software Engineer",
-    company: "Techverx",
-    stack: "React, Angular, Node.js, Express, MongoDB",
-    duration: "(Nov 2020 - Mar 2022)",
-  },
-  {
-    id: 4,
-    title: "Associate Software Engineer",
-    company: "Agilifytech",
-    stack: " Node.js, Express, MongoDB, HTML, CSS, JavaScript, TypeScript",
-    duration: "(Jan 2020 - Oct 2020)",
+      "Java, Spring Boot, Hibernate, JPA, PostgreSQL, Maven, Kafka, Docker, REST APIs, Microservices",
+    duration: "(Jul 2019 - Mar 2024)",
   },
 ];

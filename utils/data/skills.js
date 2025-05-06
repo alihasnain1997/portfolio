@@ -1,28 +1,40 @@
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "Javascript",
-  "Typescript",
-  "React",
-  "Next JS",
-  "Tailwind",
-  "MongoDB",
+  // Core Languages & Frameworks
+  "Java",
+  "Spring Boot",
+  "Spring Security",
+  "Hibernate",
+  "JPA",
+  "Maven",
+  "Node.js",
+
+
+  // Authentication & Authorization
+  "Keycloak",
+  "Okta",
+
+  // Databases
   "MySQL",
   "PostgreSQL",
-  "Git",
-  "AWS",
-  "Bootstrap",
-  "Docker",
-  "Angular",
-  "nodejs",
-  "graphql",
+  "MongoDB",
   "Redis",
-  "nestjs",
-  "jest",
-  "socket",
-  "cypress",
-  "redux",
-  "antdesign",
+
+  // DevOps & Tools
+  "Docker",
+  "Git",
+  "Liquibase",
+  "GraalVM",
+  "Kafka",
+
+  // Monitoring & Logging
+  "Grafana",
+  "Prometheus",
+  "Elasticsearch",
+
+  // Others
+  "AWS",
+  "Socket.io",
+  "GraphQL"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

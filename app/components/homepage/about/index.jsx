@@ -25,7 +25,7 @@ function AboutSection() {
           <div className="relative w-[350px] h-[350px]">
             <Image
               src={personalData.profile}
-              alt="Ali Hasnain"
+              alt="Raza Amer"
               fill
               className="object-cover rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
             />
