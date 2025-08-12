@@ -18,5 +18,5 @@ I'm always open to exciting opportunities that challenge me and align with my te
   // leetcode: "https://leetcode.com/said3812/",
   devUsername: "ali hasnain",
   resume:
-    "https://drive.google.com/file/d/1Qv2SoDxv3uic1Mo-H5pzjDrfOCUAm_IJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1wsktyCATu6NMAABhDHXSv6_WWp0a_jUF/view?usp=sharing"
 };

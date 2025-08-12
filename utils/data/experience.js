@@ -27,6 +27,6 @@ export const experiences = [
     title: "Associate Software Engineer",
     company: "Agilifytech",
     stack: " Node.js, Express, MongoDB, HTML, CSS, JavaScript, TypeScript",
-    duration: "(Jan 2020 - Oct 2020)",
+    duration: "(Jan 2019 - Oct 2020)",
   },
 ];
